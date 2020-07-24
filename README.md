@@ -1,7 +1,9 @@
 # Data Analisys
 ### By **Simon Blasco**
 
-You can use the [editor on GitHub](https://github.com/sblasco7/sblasco7.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ShinyApp de los casos confirmados en la Argentina, Hospitalizados y fallecidos segun la provincia.
+
+![covid-Ar](https://simonblasco.shinyapps.io/covid-ar/)
 
 [Covid Argentina](https://simonblasco.shinyapps.io/covid-ar/)
 
