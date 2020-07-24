@@ -3,7 +3,7 @@
 
 ShinyApp de los casos confirmados en la Argentina, Hospitalizados y fallecidos segun la provincia.
 
-![covid-Ar](https://simonblasco.shinyapps.io/covid-ar/)
+![covidAR](https://user-images.githubusercontent.com/48648720/88417742-d46fe180-cdb8-11ea-94ba-991daddf361f.PNG)
 
 [Covid Argentina](https://simonblasco.shinyapps.io/covid-ar/)
 
