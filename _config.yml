@@ -1,3 +1,3 @@
 name: Simon Blasco, Economist.
-markdown: markdown
+markdown: kramdown
 theme: jekyll-theme-dinky
