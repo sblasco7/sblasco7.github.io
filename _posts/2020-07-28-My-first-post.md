@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "My first post"
+date: 2020-07-28
 ---
 
 First post for the Web Page.
