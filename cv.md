@@ -9,14 +9,14 @@ Experienced in reporting and dashboard design for a range of companies at a nati
 and creating solutions to complex issues. I enjoy teamwork both in support roles and leading projects in a management capacity by helping the design 
 and creation of new indicators, reports and transmitting insights through presentations.
 
-***Freelance Data Analist***
+***Freelance Data Analist***  
 R language specialist, cleaning, wrangling and gathering data into tidy datasets, I also design Shiny Apps and visualizations 
 (https://simonblasco.shinyapps.io/covid_es/) using the tidyverse, shiny and ggplot2 libraries as well as serveral others.
 Proficient Tableau designer, I design interactive custom visualizations using live and stock databases for specific needs.
 
 I also Day trade in commodities, FOREX and cryptocurrency through derivative markets.
 
-***Account Manager*** 
+***Account Manager***  
 I was the account manager for the client Wallmart Chile, in charge of reporting sell out data and analytics, as well as designing presentations, 
 keeping track of deliverables and assuring quality control. I improved response times in regards to the ad-hoc request by the client's team. 
 Serving as much as triple the weekly ticket.
