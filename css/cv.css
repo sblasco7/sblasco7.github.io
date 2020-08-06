@@ -1,8 +1,10 @@
 * {
   box-sizing: border-box;
-  width: 95%;
-  margin: 60px auto;
-  padding-left: 50px;
+}
+body{
+   width: 95%;
+   padding-left: 50px;
+   margin: 30px auto;
 }
 header.main{
    margin: 0;
@@ -25,7 +27,6 @@ p {
    width: 90%;
    margin: 1px auto;
    border-bottom: solid thin #d5d5d5;
-   background-color: white;
    text-indent: 5%;
    letter-spacing: 0.5px;
 }
@@ -33,7 +34,7 @@ p {
 h1{
    font-family: "Garamond";
    font-size: 100px;
-   color: #d5d5d5;
+   color: black;
    text-decoration-line: underline;
    margin: 5px;
    padding: 20px;
@@ -41,7 +42,7 @@ h1{
 }
 h2,h3{
    font-family: "Garamond";
-   color: #d5d5d5;
+   color: black;
    text-decoration-line: underline;
 }
 
