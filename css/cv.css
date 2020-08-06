@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+  width: 95%;
+  margin: 0 auto;
+  padding-left: 50px;
+}
+header.main{
+   margin: 0;
+   padding: 0%;
+   height: 150px;
+   text-align: left;
+}
+p {
+   font-family: "Garamond";
+   font-size: 20px;
+   text-align: justify;
+   padding: 10px 5px;
+   line-height: 150%;
+   text-indent: 5%;
+   letter-spacing: 0.5px;
+}
+.ps {
+   font-size: 20px;
+   padding: 20px;
+   width: 90%;
+   margin: 1px auto;
+   border-bottom: solid thin black;
+   background-color: white;
+   text-indent: 5%;
+   letter-spacing: 0.5px;
+}
+
+h1{
+   font-family: "Garamond";
+   font-size: 100px;
+   color: black;
+   text-decoration-line: underline;
+   margin: 5px;
+   padding: 20px;
+   text-align: start;
+}
+h2,h3{
+   font-family: "Garamond";
+   color: black;
+   text-decoration-line: underline;
+}
+
+div{
+	padding: 0px;
+	margin: 10px;
+}
+.abilities{
+   font-family: "Garamond";
+   font-size:16px;
+   text-align: left;
+   padding: 20px;
+   display: inline;
+}
+.job_description{
+   padding: 0 auto;
+}
+.flex_block{
+   display: flex;
+   border: solid thin black;
+   border-radius: 10px;
+}
+ul{
+   margin:0;
+   padding: 0;
+}
+li{
+   font-family: "Garamond";
+   font-size: 18px;
+   text-align: left;
+   padding: 5px 0px;
+   text-align: justify;
+   text-indent: 5%;
+   letter-spacing: 0.5px
+}
