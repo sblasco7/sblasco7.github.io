@@ -15,18 +15,22 @@ header.main{
 p {
    font-family: "Garamond";
    font-size: 20px;
+   font-weight: 300;
    text-align: justify;
-   padding: 10px 5px;
+   padding: 5px 20px;
    line-height: 150%;
    text-indent: 5%;
    letter-spacing: 0.5px;
+   border-right: solid thin #d5d5d5;
 }
 .ps {
    font-size: 20px;
+   font-weight: 300;
    padding: 20px;
    width: 90%;
    margin: 1px auto;
    border-bottom: solid thin #d5d5d5;
+   border-right: none;
    text-indent: 5%;
    letter-spacing: 0.5px;
 }
@@ -60,10 +64,11 @@ div{
 .job_description{
    padding: 0 auto;
 }
-.flex_block{
+.flex_block {
    display: flex;
-   border: solid thin #d5d5d5;
-   border-radius: 10px;
+}
+.width_block{
+   width: 50%;
 }
 ul{
    margin:0;
@@ -71,12 +76,14 @@ ul{
 }
 li{
    font-family: "Garamond";
-   font-size: 18px;
+   font-size: 20px;
+   font-weight: 300;
    text-align: left;
-   padding: 5px 0px;
+   padding: 1px 0px;
    text-align: justify;
    text-indent: 5%;
-   letter-spacing: 0.5px
+   letter-spacing: 0.5px;
+   margin: 0px 10px;
 }
 nav ul, footer ul {
    font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -98,4 +105,9 @@ a {
 }
 a:hover {
    text-decoration: underline;
+}
+img {
+   align-self: center;
+   width: 50px;
+   height: 50px;
 }
