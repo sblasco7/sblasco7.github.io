@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitae
 ---
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-**Simón Blasco**  
+**Simón Blasco**  (picture of Bill Murray as placeholder)
 Economist, specialized in data analysis and discovery, experienced in R Language and Tableau Software, proficient in English (bilingual). 
 Experienced in reporting and dashboard design for a range of companies at a national level. I have a lot of experience meeting production goals 
 and creating solutions to complex issues. I enjoy teamwork both in support roles and leading projects in a management capacity by helping the design 
