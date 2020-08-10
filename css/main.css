@@ -83,4 +83,9 @@ li{
    letter-spacing: 0.5px;
    margin: 10px 0px;
 }
+img {
+   align-self: center;
+   width: 500px;
+   height: 300px;
+}
 
