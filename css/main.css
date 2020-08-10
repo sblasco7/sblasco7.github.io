@@ -51,6 +51,9 @@ h1{
    text-align: center;
    border-radius: 0px;
 }
+h1.secundario{
+   background-color: #b37d4e;
+}
 h2,h3{
    font-family: "Garamond";
    color: black;
@@ -91,4 +94,5 @@ img {
    padding: 10px;
    
 }
+
 
