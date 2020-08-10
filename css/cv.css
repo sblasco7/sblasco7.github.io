@@ -109,6 +109,7 @@ a:hover {
 }
 img {
    align-self: center;
-   width: 100px;
-   height: 70px;
+   width: 900px;
+   height: 450px;
+   align: center;
 }
