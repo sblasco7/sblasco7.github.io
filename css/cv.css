@@ -79,12 +79,12 @@ li{
    font-family: "Garamond";
    font-size: 20px;
    font-weight: 300;
-   text-align: left;
-   padding: 1px 0px;
+   text-align: center;
+   padding: 10px 20px;
    text-align: justify;
    text-indent: 5%;
    letter-spacing: 0.5px;
-   margin: 0px 10px;
+   margin: 10px 0px;
 }
 nav ul, footer ul {
    font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -106,6 +106,7 @@ a {
 }
 a:hover {
    text-decoration: underline;
+   color: white;
 }
 img {
    align-self: center;
