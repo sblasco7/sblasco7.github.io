@@ -96,6 +96,10 @@ nav ul li, footer ul li {
    display: inline;
    margin-right: 20px;
 }
+nav ul li:hover, footer ul li:hover{
+   background-color: #cd5360;
+   border-radius: 0px;
+}
 footer {
    border-top: 1px solid #d5d5d5;
    font-size: .8em;
