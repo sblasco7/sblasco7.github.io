@@ -22,9 +22,11 @@ p {
    text-indent: 5%;
    letter-spacing: 0.5px;
    border-right: solid thin #d5d5d5;
+   overflow: hidden;
 }
 p.job_desc{
    width: 480px;
+   height: 460px;
 }
 .ps {
    font-size: 20px;
