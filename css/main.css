@@ -94,5 +94,9 @@ img {
    height: 80%;
    padding: 10px;
 }
-
+#selfie{
+   position: relative;
+   height: 400px;
+   width: 200px;
+}
 
