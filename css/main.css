@@ -95,8 +95,9 @@ img {
    padding: 10px;
 }
 #selfie{
-   position: relative;
-   height: 400px;
-   width: 200px;
+   position: float;
+   height: 30%px;
+   width: 30%px;
+   margin: 10px;
 }
 
