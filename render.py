@@ -6,7 +6,7 @@ env = Environment(loader=FileSystemLoader("_layouts"))
 
 # pages to render
 pages = [
-    ("index.html", {"title": "main structure"}),
+    ("index.html", {"title": "main structure", "body_class": "bg-dark"}),
     ("cv.html", {"title": "main structure"}),
 ]
 
