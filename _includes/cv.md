@@ -15,7 +15,7 @@ assigned to none othe than Walmart Chile, I was in charge of reporting sell out 
 keeping track of deliverables and assuring quality control. I improved response times in regards to the ad-hoc request by the client's team. 
 serving as much as triple the weekly ticket.
 
-#Freelance Data Analyst
+# Freelance Data Analyst
 I was an account manager for Upthetrade, a Chilean startup competitor to the monolithic NIElSEN 
 assigned to none othe than Walmart Chile, I was in charge of reporting sell out data and analytics, as well as designing presentations, 
 keeping track of deliverables and assuring quality control. I improved response times in regards to the ad-hoc request by the client's team. 
