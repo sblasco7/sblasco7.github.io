@@ -1,3 +1,4 @@
+<!-- cv/content.html -->
 {% extends "default.html" %}
 {% block content %}
 <!DOCTYPE html>
@@ -15,6 +16,7 @@
 
 	<header class = "main">
 		<h1 class="display-3 text-white ">Simon Blasco</h1>
+
 	</header>
 	<div class="container-fluid">
 		<div class="row">
@@ -22,16 +24,30 @@
 				<h2 class="display-6 ">Blank space</h2>
 			</div>
 			<div class="col col-10">
-				<p class="m-2 p-2 lead border-start border-4 border-white-subtle text-white"> Hello, I'm Simon Blasco, I am Venezuelan Economist with a knack for finding answers and making
-		 		evidence based conections between all kinds of things. I pride myself of being a life long learner and great at
-		 		teaching, of identifying problems and being creative at inventing solutions.
-				<br>
-				The web page you are in right now was born out of the need for a place to put the product of latest avenues of learning
-				that i've decided to undertake during the 2020 quarantine, this being primarily learning R and HTML.
-				<br>
-				If you would like to know what I can do I recommend going to the main post as it is where the latest project will be posted,
-				a little about my profesional history lies below (you may expand upon it by pressing to expand each panel)
+				<p class="m-2 p-2 lead border-start border-4 border-white-subtle text-white"> 
+					Hello, I'm Simon Blasco
+					<br>
+					{{ content }}
+					AAAAAA
+					<br>
+					If you would like to know what I can do I recommend going to the main post as it is where the latest project will be posted,
+					a little about my profesional history lies below (you may expand upon it by pressing to expand each panel)
+					
+
 			 	</p>
+				 <p class = "job_desc text-white"> 
+					Based on my experience as a commecial analyst I began learning both Tableau and R in 2018, then began practicing 
+					cleaning data online as an income source on the side, ever since I've completed several data analytics
+					courses on platformas like EDX and Coursera while at the same time making my own projects for fun. 
+					<br>
+					<br>
+					My philosophy is that of accesibility, for that reason I'm currently learning to use the main R libraries for 
+					visualizations, interactivity and deployment of user friendly dashboards. In that vein I'm also learning a bit of 
+					user interface desing and web standards.
+					<br>
+					<br>
+					Side note: I'm also an avid day trader.
+				</p>
 		</div>
 
 	</div>
