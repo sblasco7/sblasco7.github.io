@@ -1,4 +1,5 @@
 
+## Resumen
 Economista, especialista en análisis de datos y descubrimiento con experiencia en lenguaje Python y Tableau, conocimientos avanzados en SQL e ingles avanzado. 
 
 Desarrollo procesos de ETL (Extract-Transform-Load) utilizando Python principalmente,. Tengo bastante experiencia procesando información para servir las necesidades de negocios de todo tipo: Finanzas, aseguradoras, minoristas e industrias manufactureras.
