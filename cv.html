@@ -16,8 +16,8 @@ title: cv
 	</header>
 
 
-	<div class="container-fluid">
-		<!--
+	<div class="container-md">
+
 		<div class="row">
 			<div class="col-8 m-2 p-2 lead border-start border-4 border-white-subtle text-white">
 				{% capture md %} 
@@ -26,14 +26,13 @@ title: cv
 				{{ md | markdownify }}
 			</div>
 		</div>
-		-->
+
 		<div class="row">
 			<div class="col-4">
 				<p class="text-white"></p>
 			</div>
 			<div class="col-8 lead border-start border-4 border-white-subtle text-white">
 				{% capture md %} 
-				{% include resume.md %}
 				{% include cv.md %}
 				{% endcapture %}
 				{{ md | markdownify }}
