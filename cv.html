@@ -19,26 +19,32 @@ title: cv
 	<div class="container-lg">
 
 		<div class="row">
-			<div class="col-4">
-				<p class="text-white">lorem ipsum</p>
+			<div class="col-3">
+				<p class="text-white"></p>
 			</div>
-			<div class="col-8 lead border-start border-4 border-white-subtle text-white">
+			<div class="col-6 lead border-start border-4 border-white-subtle text-white">
 				{% capture md %} 
 				{% include resume.md %}
 				{% endcapture %}
 				{{ md | markdownify }}
 			</div>
+			<div class="col-3">
+				<p class="text-white"></p>
+			</div>
 		</div>
 
 		<div class="row">
-			<div class="col-4">
+			<div class="col-3">
 				<p class="text-white">lorem ipsum</p>
 			</div>
-			<div class="col-8 lead border-start border-4 border-white-subtle text-white">
+			<div class="col-6 lead border-start border-4 border-white-subtle text-white">
 				{% capture md %} 
 				{% include cv.md %}
 				{% endcapture %}
 				{{ md | markdownify }}
+			</div>
+			<div class="col-3">
+				<p class="text-white"></p>
 			</div>
 		</div>
 	</div>
