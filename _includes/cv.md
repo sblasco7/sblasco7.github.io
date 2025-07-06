@@ -1,12 +1,3 @@
-
-If you would like to know what I can do I recommend going to the main post as it is where the latest project will be posted. A little about my professional history lies below.
-
-Based on my experience as a commercial analyst I began learning both Tableau and R in 2018, then began practising cleaning data online as an income source on the side. Since then I've completed several data-analytics courses on platforms such as EDX and Coursera while at the same time creating my own projects for fun.
-
-My philosophy is accessibility. For that reason I'm currently learning to use the main R libraries for visualisations, interactivity and deployment of user-friendly dashboards. In that vein I'm also learning a bit of user-interface design and web standards.
-
----
-
 ### Account Manager
 
 I designed various dashboards that helped category managers benchmark their market share and performance in different time frames and geographical clusters. (This was when I began to fall in love with business intelligence.)
